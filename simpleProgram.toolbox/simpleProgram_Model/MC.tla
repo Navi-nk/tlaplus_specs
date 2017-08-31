@@ -2,13 +2,13 @@
 EXTENDS simpleProgram, TLC
 
 \* INIT definition @modelBehaviorInit:0
-init_15040666648916000 ==
+init_150414874748393000 ==
 Init
 ----
 \* NEXT definition @modelBehaviorNext:0
-next_15040666648917000 ==
+next_150414874748394000 ==
 Next
 ----
 =============================================================================
 \* Modification History
-\* Created Wed Aug 30 12:17:44 SGT 2017 by Navi-PC
+\* Created Thu Aug 31 11:05:47 SGT 2017 by Navi-PC
